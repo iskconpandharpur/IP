@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ad4a7fcb.css",
-    "main.js": "/static/js/main.afd197ed.js",
+    "main.js": "/static/js/main.5fe25a7a.js",
     "static/media/slider-03.jpg": "/static/media/slider-03.6e4d263b19e84abeb748.jpg",
     "static/media/if.png": "/static/media/if.83e58dc18c9643ec4459.png",
     "static/media/Preaching-002.jpg": "/static/media/Preaching-002.e6ac1d5a29575c6de90c.jpg",
@@ -22,10 +22,10 @@
     "static/media/Pandharpur.jpg": "/static/media/Pandharpur.948d98d43beca1985db2.jpg",
     "index.html": "/index.html",
     "main.ad4a7fcb.css.map": "/static/css/main.ad4a7fcb.css.map",
-    "main.afd197ed.js.map": "/static/js/main.afd197ed.js.map"
+    "main.5fe25a7a.js.map": "/static/js/main.5fe25a7a.js.map"
   },
   "entrypoints": [
     "static/css/main.ad4a7fcb.css",
-    "static/js/main.afd197ed.js"
+    "static/js/main.5fe25a7a.js"
   ]
 }
