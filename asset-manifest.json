@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad4a7fcb.css",
+    "main.js": "/static/js/main.afd197ed.js",
+    "static/media/slider-03.jpg": "/static/media/slider-03.6e4d263b19e84abeb748.jpg",
+    "static/media/if.png": "/static/media/if.83e58dc18c9643ec4459.png",
+    "static/media/Preaching-002.jpg": "/static/media/Preaching-002.e6ac1d5a29575c6de90c.jpg",
+    "static/media/covid-help.jpeg": "/static/media/covid-help.4ee9c077efa78ca0be62.jpeg",
+    "static/media/slider-07.jpg": "/static/media/slider-07.80af49cfdc5272fb1240.jpg",
+    "static/media/slider-06.jpg": "/static/media/slider-06.50de22d8e629b3c408f1.jpg",
+    "static/media/2.jpeg": "/static/media/2.237296d7ba23591e8da2.jpeg",
+    "static/media/1.jpg": "/static/media/1.236c89800e95308c2dad.jpg",
+    "static/media/slider-01.jpg": "/static/media/slider-01.32749a5cddf39ba55c2f.jpg",
+    "static/media/food-for-life.jpg": "/static/media/food-for-life.4e5136b9aa991c1fb6db.jpg",
+    "static/media/3.png": "/static/media/3.c96adfeea4b11c108347.png",
+    "static/media/3.jpg": "/static/media/3.163a1c2295e17ddbc79d.jpg",
+    "static/media/2.jpg": "/static/media/2.21b106ab828ac22ca882.jpg",
+    "static/media/boolk-dist.jpg": "/static/media/boolk-dist.95fbf71ccd138c3f6e67.jpg",
+    "static/media/1.jpeg": "/static/media/1.192df0108c162374db28.jpeg",
+    "static/media/1.png": "/static/media/1.ff92214d5eab7aaf8ad0.png",
+    "static/media/NagarSankirtan.jpeg": "/static/media/NagarSankirtan.1b34b8421d87b9eaefe3.jpeg",
+    "static/media/Pandharpur.jpg": "/static/media/Pandharpur.948d98d43beca1985db2.jpg",
+    "index.html": "/index.html",
+    "main.ad4a7fcb.css.map": "/static/css/main.ad4a7fcb.css.map",
+    "main.afd197ed.js.map": "/static/js/main.afd197ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4a7fcb.css",
+    "static/js/main.afd197ed.js"
+  ]
+}
