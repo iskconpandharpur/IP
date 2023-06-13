@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0680cc43.css",
-    "main.js": "/static/js/main.12d8213a.js",
+    "main.js": "/static/js/main.cd3d6292.js",
     "static/media/slider-03.jpg": "/static/media/slider-03.92a3393e1732f1e264f5.jpg",
     "static/media/1.jpg": "/static/media/1.236c89800e95308c2dad.jpg",
     "static/media/if.png": "/static/media/if.7aee9590a02f02e1d7cd.png",
@@ -25,10 +25,10 @@
     "static/media/Pandharpur.jpg": "/static/media/Pandharpur.948d98d43beca1985db2.jpg",
     "index.html": "/index.html",
     "main.0680cc43.css.map": "/static/css/main.0680cc43.css.map",
-    "main.12d8213a.js.map": "/static/js/main.12d8213a.js.map"
+    "main.cd3d6292.js.map": "/static/js/main.cd3d6292.js.map"
   },
   "entrypoints": [
     "static/css/main.0680cc43.css",
-    "static/js/main.12d8213a.js"
+    "static/js/main.cd3d6292.js"
   ]
 }
