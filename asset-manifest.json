@@ -1,34 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.72f9ff7c.css",
-    "main.js": "/static/js/main.6ffa47ec.js",
-    "static/media/slider-03.jpg": "/static/media/slider-03.92a3393e1732f1e264f5.jpg",
-    "static/media/1.jpg": "/static/media/1.236c89800e95308c2dad.jpg",
-    "static/media/if.png": "/static/media/if.7aee9590a02f02e1d7cd.png",
-    "static/media/Preaching-002.jpg": "/static/media/Preaching-002.e9fcc16f25c13312096c.jpg",
-    "static/media/slider-01.jpg": "/static/media/slider-01.32749a5cddf39ba55c2f.jpg",
-    "static/media/slider-07.jpg": "/static/media/slider-07.0f95e75e417d582ef43c.jpg",
-    "static/media/3.png": "/static/media/3.c96adfeea4b11c108347.png",
-    "static/media/slider-06.jpg": "/static/media/slider-06.1a575389f46d381d228d.jpg",
-    "static/media/Janma2.jpg": "/static/media/Janma2.6afe6bf3e6239ee5c77f.jpg",
-    "static/media/3.jpg": "/static/media/3.163a1c2295e17ddbc79d.jpg",
-    "static/media/boolk-dist.jpg": "/static/media/boolk-dist.95fbf71ccd138c3f6e67.jpg",
-    "static/media/1.jpeg": "/static/media/1.192df0108c162374db28.jpeg",
-    "static/media/covid-help.jpeg": "/static/media/covid-help.5c053ee6bcbc9fac69f1.jpeg",
-    "static/media/2.jpg": "/static/media/2.acb1afedeccbf23f6989.jpg",
-    "static/media/1.png": "/static/media/1.ff92214d5eab7aaf8ad0.png",
-    "static/media/Janma3.jpg": "/static/media/Janma3.a33273ba272be274b74c.jpg",
-    "static/media/NagarSankirtan.jpeg": "/static/media/NagarSankirtan.1b34b8421d87b9eaefe3.jpeg",
-    "static/media/2.jpeg": "/static/media/2.8002f154f00b23c9c397.jpeg",
-    "static/media/Janma1.jpg": "/static/media/Janma1.8bd633b634e338eb8c39.jpg",
-    "static/media/food-for-life.jpg": "/static/media/food-for-life.acb1afedeccbf23f6989.jpg",
-    "static/media/Pandharpur.jpg": "/static/media/Pandharpur.948d98d43beca1985db2.jpg",
+    "main.js": "/static/js/main.440e0abd.js",
     "index.html": "/index.html",
-    "main.72f9ff7c.css.map": "/static/css/main.72f9ff7c.css.map",
-    "main.6ffa47ec.js.map": "/static/js/main.6ffa47ec.js.map"
+    "main.440e0abd.js.map": "/static/js/main.440e0abd.js.map"
   },
   "entrypoints": [
-    "static/css/main.72f9ff7c.css",
-    "static/js/main.6ffa47ec.js"
+    "static/js/main.440e0abd.js"
   ]
 }
