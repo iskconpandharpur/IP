@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8ec8550.css",
-    "main.js": "/static/js/main.ce1a5ded.js",
+    "main.css": "/static/css/main.987c8c6d.css",
+    "main.js": "/static/js/main.589c3dce.js",
     "static/media/slider-03.jpg": "/static/media/slider-03.92a3393e1732f1e264f5.jpg",
     "static/media/1.jpg": "/static/media/1.236c89800e95308c2dad.jpg",
     "static/media/if.png": "/static/media/if.7aee9590a02f02e1d7cd.png",
@@ -24,11 +24,11 @@
     "static/media/food-for-life.jpg": "/static/media/food-for-life.acb1afedeccbf23f6989.jpg",
     "static/media/Pandharpur.jpg": "/static/media/Pandharpur.948d98d43beca1985db2.jpg",
     "index.html": "/index.html",
-    "main.d8ec8550.css.map": "/static/css/main.d8ec8550.css.map",
-    "main.ce1a5ded.js.map": "/static/js/main.ce1a5ded.js.map"
+    "main.987c8c6d.css.map": "/static/css/main.987c8c6d.css.map",
+    "main.589c3dce.js.map": "/static/js/main.589c3dce.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8ec8550.css",
-    "static/js/main.ce1a5ded.js"
+    "static/css/main.987c8c6d.css",
+    "static/js/main.589c3dce.js"
   ]
 }
